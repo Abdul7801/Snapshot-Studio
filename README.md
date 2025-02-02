@@ -31,7 +31,8 @@ This is a **Camera Mini Project** built using **HTML and CSS**. It features a **
 2. **Open `index.html`** in a browser to view the project  
 
 ## 📸 Screenshots  
-![Cameraimg](https://github.com/Abdul7801/Snapshot-Studio/blob/main/Camera%20Mini%20Project.png?raw=true)
+![Cameraimg](![Camera Mini Project](https://github.com/user-attachments/assets/5c47e597-0e26-4d4b-84c9-8e3574c82a87)
+)
 
 ## 📝 License  
 This project is **free to use** and open-source.  
