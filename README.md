@@ -1,5 +1,3 @@
-This is a responsive Camera Mini Project built using HTML and CSS. The project features a clean and minimalistic design with a simple sidebar navigation for easy access to different sections. The layout is structured using flexbox and grid, ensuring a smooth and adaptive experience across various screen sizes. The sidebar includes icons and text links for navigation, enhancing usability. This project serves as a great practice for UI design, responsive web layouts, and sidebar implementation using pure HTML and CSS.
-
 # 📷 Camera Mini Project with Simple Sidebar  
 
 ## 📌 Overview  
